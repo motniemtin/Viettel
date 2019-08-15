@@ -8,7 +8,6 @@
             "email": "motniemtin@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
     },
     "autoload": {
